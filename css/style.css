@@ -14,8 +14,8 @@
 
 	body
 	{
-		/* background: #f5f7fa;  */
-		background-image: url('images/greenmeadow.jpg');
+		/background: #f5f7fa;  
+		/* background-image: url('images/greenmeadow.jpg'); */
 	}
 
 		body.is-loading *
@@ -574,7 +574,8 @@
 		position: relative;
 		padding: 4em 0 2em 0;
 		
-		background-color:		#2ecc71;
+		/* background-color:		#2ecc71; */
+		background-image: url('images/greenmeadow.jpg');
 		
 		
 		
