@@ -14,7 +14,8 @@
 
 	body
 	{
-		background: #f5f7fa;
+		/* background: #f5f7fa;  */
+		background-image: url('images/greenmeadow.jpg');
 	}
 
 		body.is-loading *
@@ -159,7 +160,7 @@
 		.row > article
 		{
 			margin-bottom: 0;
-			
+
 		}
 
 		header
